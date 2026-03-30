@@ -18,7 +18,7 @@ Tuesday Exit: Sty Head
  - Lingmell: via _Piers Gill_
  - Scarfell: via _Mickledore_
 
-Sat & Sun: Bus
+# Sat & Sun: Bus
 Wasdale Head        Nether Wasdale
 
 https://www.lakedistrict.gov.uk/visiting/plan-your-visit/getting-to-the-lake-district/wasdale-shuttlebus
@@ -26,16 +26,14 @@ https://www.lakedistrict.gov.uk/visiting/plan-your-visit/getting-to-the-lake-dis
 ## Medium
  - Buckbarrow, Seatallan, Haycock 
  - Scoat Tarn: Low Tarn -> Scoat Tarn (swim) -> Low Tarn
- - bus to Ravenglass (11:55) -> Lal Ratty -> Burnmore Tarn!
-https://ravenglass-railway.co.uk/
-Ravenglass  Dalgarth
-12:50       13:30
-
+ - bus to Ravenglass (10:50 - 11:55) -> La'al Ratty -> Burnmore Tarn!
+   - https://ravenglass-railway.co.uk/
+   - Ravenglass  Dalgarth
+   - 12:50       13:30
 
 ## Hard
  - Scoat Fell: Low Tarn -> Scoat Tarn -> Scoat Fell -> Steeple -> Red Pike -> Dore Head
  - Red Pike: Dore Head, Red Pike, Scoat Tarn (swim), Low Tarn
-
  - Bus (rain): Muncaster?
 
 
