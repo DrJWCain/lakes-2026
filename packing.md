@@ -71,7 +71,7 @@ Waterproof Trousers
 Waterproof Jacket
 
 ### Back Pocket
-Water bladder - filed with 2.5 ltrs!
+Water bladder - empty.
 2 paper maps: North West, South West. 
 Map case
 Sitmat 
