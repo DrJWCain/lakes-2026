@@ -31,7 +31,7 @@ Plastic bag
 3 Ts 
 Plastic bag
 
-MacBook Air in water proof bag. 
+Windows Tablet in water proof bag. 
 
 Body wash - use for clothes?
 Shampoo
@@ -42,20 +42,15 @@ Plastic bag
 
 Flip flops
 
-Side Pockets
-Thermos - Tea
-Botle Water (for journey)
-
 ### Top Pocket
 Compass & Whistle 
 2 Wainwrights: Southern, Western. 
 Wallet + Cash
 Phone
-Torch
-USB-C cable (for laptop, phone, AirPods & torch)
-20W Plug
+Torch + charging cable (USB-A)
+USB-C cable (for laptop, phone, AirPods)
+Charger for USB-C and USB-A
 AirPods
-
 
 ### Inside Top Pocket
 Notebook & pencil
@@ -71,23 +66,25 @@ Waterproof Trousers
 Waterproof Jacket
 
 ### Back Pocket
-Water bladder - empty.
-2 paper maps: North West, South West. 
-Map case
+Water bladder - empty. Fill with 2Ltrs in Keswick.
+1 paper map: Harvey Superwalker XT25: Lake District West. 
 Sitmat 
 
-### Side Pockets
+### Small Side Pockets
 Right: Suncream
 Lip balm. 
 Glasses cleaning cloth. 
 Left: Plastic bag for shopping
 
+### Large Side Pockets
+Thermos - Tea (for journey)
+Bottle Water (for journey)
+
 ### Outside
-Polls - strapped on. Upside down. Need fixing!
+Polls - strapped on. Upside down.
 
 ### Strap
 Carabiner
-
 
 ### Not taking
 
